@@ -1,8 +1,6 @@
 <!-- Placed at the end of the document so the pages load faster -->
 	
 
-	<script src="{!! asset('') !!}" ></script> 
-	<script src="{!! asset('') !!}" ></script> 
 	<script src="{!! asset('my/js/jquery.min.js') !!}" ></script> 
 	<script src="{!! asset('my/js/modernizr.custom.js') !!}" ></script> 
 	<script src="{!! asset('my/js/jquery.easing.1.3.js') !!}" ></script> 

@@ -74,6 +74,10 @@
 </head>
 
 <body data-spy="scroll" data-offset="64" data-target="#section-topbar">
+<!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KZGLKFJ"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
 
   {{-- <div id="section-topbar">
     <div id="topbar-inner">

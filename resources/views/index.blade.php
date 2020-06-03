@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <style type="text/css">
    #html6 {
     /*height: 100%;*/
@@ -502,3 +503,5 @@
 
    </section>
 @endsection
+
+</html>
